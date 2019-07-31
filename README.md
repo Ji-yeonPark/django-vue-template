@@ -18,7 +18,7 @@ pip install -r requirements.txt
 * On one terminal run your webpack dev server
 
 ```bash
-npm run dev
+npm run build
 ```
 
 * On another terminal launch the Django application
